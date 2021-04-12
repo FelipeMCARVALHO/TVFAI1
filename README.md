@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds":660
     },
     {
-      "url": "https://arcelormittal.sharepoint.com/sites/Job_/Shared%20Documents/COMUNICA%C3%87%C3%83O/DDS%20dia%2001%2004.jpg?csf=1&web=1&e=Q49IIf&cid=5525b500-1d18-4f51-a7ee-b5e5bc567c5a",
+      "url": "https://arcelormittal.sharepoint.com/:i:/r/sites/Job_/Shared%20Documents/SEGURAN%C3%87A/DDS%20dia%201204%20Abrang%C3%AAncia%20Ita%C3%BAna%20e%20Dica%20Covid.jpg?csf=1&web=1&e=C3xKuS",
       "duration": 30,
       "tabReloadIntervalSeconds":660
     }
