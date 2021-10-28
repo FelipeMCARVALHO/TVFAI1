@@ -10,9 +10,19 @@
       "tabReloadIntervalSeconds":660
     },
     {
-      "url": "https://arcelormittal.sharepoint.com/:i:/r/sites/Job_/Shared%20Documents/SEGURAN%C3%87A/DDS%20dia%201204%20Abrang%C3%AAncia%20Ita%C3%BAna%20e%20Dica%20Covid.jpg?csf=1&web=1&e=C3xKuS",
-      "duration": 30,
-      "tabReloadIntervalSeconds":660
+      "url": "https://app.powerbi.com/groups/me/reports/7c5cccb1-2a99-43ce-8ef2-ae62e73e91cd/ReportSectionb7bb905875c44585c129?chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds":86400
+      },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/7c5cccb1-2a99-43ce-8ef2-ae62e73e91cd/ReportSectionfcdb5b9448ee30515693?chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds":86400
+      },
+    {
+      "url": "https://app.powerbi.com/groups/me/reports/dc2ec582-9017-426c-b867-48d086c94767/ReportSection4bce8ed88580b37f8590?chromeless=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds":86400
     }
   ]
 }
