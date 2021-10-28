@@ -11,7 +11,7 @@
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/7c5cccb1-2a99-43ce-8ef2-ae62e73e91cd/ReportSectionb7bb905875c44585c129?chromeless=1",
-      "duration": 20,
+      "duration": 30,
       "tabReloadIntervalSeconds":86400
       },
     {
