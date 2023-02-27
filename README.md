@@ -18,11 +18,6 @@
       "url": "https://app.powerbi.com/groups/me/reports/7c5cccb1-2a99-43ce-8ef2-ae62e73e91cd/ReportSectionfcdb5b9448ee30515693?chromeless=1",
       "duration": 20,
       "tabReloadIntervalSeconds":10800
-      },
-    {
-      "url": "https://app.powerbi.com/groups/me/reports/dc2ec582-9017-426c-b867-48d086c94767/ReportSection4bce8ed88580b37f8590?chromeless=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds":10800
     }
   ]
 }
