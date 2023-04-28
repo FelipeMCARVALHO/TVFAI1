@@ -24,7 +24,7 @@
       "duration": 20,
       "tabReloadIntervalSeconds":10800
      {
-      "url": "blob:https://arcelormittal.sharepoint.com/0b84a9fa-e376-4318-8c3f-09f9f239c02e",
+      "url": "https://arcelormittal.sharepoint.com/:i:/r/sites/Job_/Shared%20Documents/Efici%C3%8Ancia/Apresenta%C3%A7%C3%A3o1.jpg?csf=1&web=1&e=GZJgB9",
       "duration": 20,
       "tabReloadIntervalSeconds":10800
     }
