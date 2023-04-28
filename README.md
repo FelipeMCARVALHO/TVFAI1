@@ -23,6 +23,10 @@
       "url": "https://app.powerbi.com/groups/66a1f47c-5777-4c6b-a742-d19e9bf61cfd/reports/d54deaed-fdb0-49f0-9829-ee84ba66cef5/ReportSection4bce8ed88580b37f8590?chromeless=1",
       "duration": 20,
       "tabReloadIntervalSeconds":10800
+     {
+      "url": "blob:https://arcelormittal.sharepoint.com/0b84a9fa-e376-4318-8c3f-09f9f239c02e",
+      "duration": 20,
+      "tabReloadIntervalSeconds":10800
     }
   ]
 }
